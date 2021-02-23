@@ -2,9 +2,9 @@
 
 Hi I'm Jeremy!
 
-<p align="center"> ![Jeremy's github stats](https://github-readme-stats.vercel.app/api?username=jeremygigase&show_icons=true&theme=gotham)
+<p align="center"> <img src="https://www.codewars.com/users/jeremygigase/badges/large" alt="jeremy gigase code wars stats" />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jeremygigase&show_icons=true&theme=gotham" alt="jeremy gigase" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jeremygigase&show_icons=true&theme=gotham" alt="jeremy gigase github stats" />
 <!--
 **jeremygigase/jeremygigase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
