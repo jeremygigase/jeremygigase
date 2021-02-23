@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+Hi I'm Jeremy!
+
+![Jeremy's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+
+![Code wars wcore](https://www.codewars.com/users/jeremygigase/badges/large)
 
 <!--
 **jeremygigase/jeremygigase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
