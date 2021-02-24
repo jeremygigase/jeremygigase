@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/YqFACC5oHsyy3l31k1/giphy.gif" width="25px">
+### Hi there <img src="https://media.giphy.com/media/YqFACC5oHsyy3l31k1/giphy.gif" width="32px">
 
 <a href="https://twitter.com/JeremyGigase">
   <img align="left" alt="Jeremy's Twitter Page" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -20,7 +20,7 @@
  </p>
 
 <h3>Languages & tools I use to code</h3>
-<p>
+<p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React-Native" src="https://img.shields.io/badge/-React_Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Expo" src="https://img.shields.io/badge/-Expo-000000?style=flat-square&logo=expo&logoColor=white" />
