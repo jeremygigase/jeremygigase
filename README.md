@@ -6,7 +6,7 @@ I'm Jeremy, a FullStack Developer from Antwerp, Belgium.
 
 From the first day I started programming I fell in love with it. Though I’ve learned a lot since that first day I know there’s still a lot to learn. That’s why I dedicate myself every day to deepen my knowledge of the technologies I know and to constantly learn new ones.
 
-My passion not only lies in fixing logic problems , but also coming up with new ideas and being able to create them. Currently I’m focused on web & app development using <b>Next.js, React, React Native & Expo</b> for my frontend and <b>Firebase, PHP, Symphony & MySQL for my Backend</b>.
+My passion not only lies in fixing logic problems, but also coming up with new ideas and being able to create them. Currently I’m focused on web & app development using <b>Next.js, React, React Native & Expo</b> for my frontend and <b>Firebase, PHP, Symphony & MySQL for my Backend</b>.
 
 <!--
   <img align="right" alt="GIF" src="?? 2D Art pixel art?" width="500" height="320" />
@@ -16,7 +16,7 @@ My passion not only lies in fixing logic problems , but also coming up with new 
 -->
  
 <h3>Places where you can find me</h3>
-  <p align="center">
+  <div align="center">
     <a href="https://twitter.com/JeremyGigase">
       <img align="left" alt="Jeremy's Twitter Page" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
     </a>
@@ -29,7 +29,7 @@ My passion not only lies in fixing logic problems , but also coming up with new 
     <a href="https://www.codewars.com/users/jeremygigase">
       <img align="left" alt="Jeremy's Code Wars Page" src="https://www.codewars.com/users/jeremygigase/badges/micro" />
     </a>
-  </p>
+  </div>
 <br>
 <h3>Languages & tools I use to code</h3>
 <p align="center">
