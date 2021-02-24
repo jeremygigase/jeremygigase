@@ -14,22 +14,6 @@ My passion not only lies in fixing logic problems, but also coming up with new i
 - 🌱 I’m currently learning ...
 - 📝 [Resume](??? via google drive?)
 -->
- 
-<h3>Places where you can find me</h3>
-  <p align="center">
-    <a href="https://twitter.com/JeremyGigase">
-      <img alt="Jeremy's Twitter Page" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-    </a>
-    <a href="https://www.linkedin.com/in/jeremy-gigase-901249135/">
-      <img alt="Jeremy's Linkedin Page" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-    </a>
-    <a href="https://open.spotify.com/user/117094324">
-      <img alt="Jeremy's Spotify Page" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-    </a>
-    <a href="https://www.codewars.com/users/jeremygigase">
-      <img alt="Jeremy's Code Wars Page" src="https://www.codewars.com/users/jeremygigase/badges/micro" />
-    </a>
-  </p>
 <br>
 <h3>Languages & tools I use to code</h3>
 <p align="center">
@@ -55,7 +39,23 @@ My passion not only lies in fixing logic problems, but also coming up with new i
   <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white" />
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jeremygigase&show_icons=true&theme=gotham" alt="jeremy gigase github stats" />
+<h3>Places where you can find me</h3>
+    <a href="https://www.linkedin.com/in/jeremy-gigase-901249135/">
+      <img align="left" alt="Jeremy's Linkedin Page" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    </a>
+    <a href="https://twitter.com/JeremyGigase">
+      <img align="left" alt="Jeremy's Twitter Page" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+    </a>
+    <a href="https://open.spotify.com/user/117094324">
+      <img  align="left" alt="Jeremy's Spotify Page" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+    </a>
+    <a href="https://www.codewars.com/users/jeremygigase">
+      <img align="left" alt="Jeremy's Code Wars Page" src="https://www.codewars.com/users/jeremygigase/badges/micro" />
+    </a>
+
+<h3>My Github Stats</h3>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jeremygigase&show_icons=true&theme=gotham" alt="Jeremy's github stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremygigase&show_icons=true&theme=gotham" alt="Jeremy's Top Languages" /> 
 <!--
 **jeremygigase/jeremygigase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
