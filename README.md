@@ -52,7 +52,8 @@ My passion not only lies in fixing logic problems, but also coming up with new i
     <a href="https://www.codewars.com/users/jeremygigase">
       <img align="left" alt="Jeremy's Code Wars Page" src="https://www.codewars.com/users/jeremygigase/badges/micro" />
     </a>
-
+<br>
+<br>
 <h3>My Github Stats</h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jeremygigase&show_icons=true&theme=gotham" alt="Jeremy's github stats" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremygigase&show_icons=true&theme=gotham" alt="Jeremy's Top Languages" /> 
