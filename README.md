@@ -21,7 +21,10 @@
 
 <h3>Languages & tools I use to code</h3>
 <p align="center">
+  <
+<a href="https://reactjs.org/">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  </a>
   <img alt="React-Native" src="https://img.shields.io/badge/-React_Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Expo" src="https://img.shields.io/badge/-Expo-000000?style=flat-square&logo=expo&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-F6CB2C?style=flat-square&logo=firebase&logoColor=white" />
