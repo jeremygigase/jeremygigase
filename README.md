@@ -16,20 +16,20 @@ My passion not only lies in fixing logic problems, but also coming up with new i
 -->
  
 <h3>Places where you can find me</h3>
-  <div align="center">
+  <p align="center">
     <a href="https://twitter.com/JeremyGigase">
-      <img align="left" alt="Jeremy's Twitter Page" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+      <img alt="Jeremy's Twitter Page" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
     </a>
     <a href="https://www.linkedin.com/in/jeremy-gigase-901249135/">
-      <img align="left" alt="Jeremy's Linkedin Page" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+      <img alt="Jeremy's Linkedin Page" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
     </a>
     <a href="https://open.spotify.com/user/117094324">
-      <img align="left" alt="Jeremy's Spotify Page" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+      <img alt="Jeremy's Spotify Page" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
     </a>
     <a href="https://www.codewars.com/users/jeremygigase">
-      <img align="left" alt="Jeremy's Code Wars Page" src="https://www.codewars.com/users/jeremygigase/badges/micro" />
+      <img alt="Jeremy's Code Wars Page" src="https://www.codewars.com/users/jeremygigase/badges/micro" />
     </a>
-  </div>
+  </p>
 <br>
 <h3>Languages & tools I use to code</h3>
 <p align="center">
