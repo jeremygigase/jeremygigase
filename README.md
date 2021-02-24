@@ -14,7 +14,7 @@ My passion not only lies in fixing logic problems, but also coming up with new i
 - 🌱 I’m currently learning ...
 - 📝 [Resume](??? via google drive?)
 -->
-<br>
+
 <h3>Languages & tools I use to code</h3>
 <p align="center">
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-364BDD?style=flat-square&logo=css3&logoColor=white" />
