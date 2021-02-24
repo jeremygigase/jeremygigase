@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there <img src="https://media.giphy.com/media/YqFACC5oHsyy3l31k1/giphy.gif" width="25px">
 
 <a href="https://twitter.com/JeremyGigase">
   <img align="left" alt="Jeremy's Twitter Page" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -8,9 +8,6 @@
 </a>
 <a href="https://open.spotify.com/user/117094324">
   <img align="left" alt="Jeremy's Spotify Page" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-<a href="https://github.com/jeremygigase">
-  <img align="left" alt="Jeremy's Spotify Page" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
 <a href="https://www.codewars.com/users/jeremygigase">
   <img align="left" alt="Jeremy's Code Wars Page" src="https://www.codewars.com/users/jeremygigase/badges/micro" />
