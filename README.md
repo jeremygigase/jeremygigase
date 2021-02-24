@@ -21,7 +21,7 @@
 
 <h3>Languages & tools I use to code</h3>
 <p align="center">
-  <a href="https://reactjs.org/">
+  <a href="https://reactjs.org/" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
    </a>
     <img alt="React-Native" src="https://img.shields.io/badge/-React_Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
