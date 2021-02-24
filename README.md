@@ -15,7 +15,8 @@
 <a href="https://www.codewars.com/users/jeremygigase">
   <img align="left" alt="Jeremy's Code Wars Page" src="https://www.codewars.com/users/jeremygigase/badges/micro" />
 </a>
-
+<br>
+<br>
 <p> Welcome to my profile page! 
   <br>
     I'm Jeremy, a FullStack Developer from Antwerp, Belgium.
