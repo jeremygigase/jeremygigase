@@ -12,7 +12,6 @@ I'm Jeremy, a Full Stack Developer from Antwerp, Belgium.
 - 🌱 I’m currently learning more about app development
 - 📝 [Resume](https://drive.google.com/file/d/1lG_4ybR78A5n-jFe3vgoPR2NupH0XvOP/view?usp=sharing)
 <br>
-<br>
 <h3 style="margin-bottom: 8px">Languages & tools I use to code</h3> 
 <p align="center">
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-364BDD?style=flat-square&logo=css3&logoColor=white" />
