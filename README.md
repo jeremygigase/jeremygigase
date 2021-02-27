@@ -1,21 +1,19 @@
 ### Hi there <img src="https://media.giphy.com/media/YqFACC5oHsyy3l31k1/giphy.gif" width="32px">
 
-Welcome to my profile page! 
+Welcome to my profile page!
 
-I'm Jeremy, a FullStack Developer from Antwerp, Belgium.
+<img align="right" alt="GIF" src="computer_desk_v3.gif" width="240" height="240" style="padding: 16px"/>
+I'm Jeremy, a Full Stack Developer from Antwerp, Belgium.
 
-From the first day I started programming I fell in love with it. Though I’ve learned a lot since that first day I know there’s still a lot to learn. That’s why I dedicate myself every day to deepen my knowledge of the technologies I know and to constantly learn new ones.
+<p>From the first day I started programming I fell in love with it. Though I’ve learned a lot since that first day I know there’s still a lot to learn. That’s why I dedicate myself every day to deepen my knowledge of the technologies I know and to constantly learn new ones.</p> 
+<p>>My passion not only lies in fixing logic problems, but also coming up with new ideas and being able to create them. Currently I’m focused on web & app development using <b>Next.js, React, React Native & Expo</b> for my frontend and <b>Firebase, PHP, Symphony & MySQL</b> for my Backend.</p
 
-My passion not only lies in fixing logic problems, but also coming up with new ideas and being able to create them. Currently I’m focused on web & app development using <b>Next.js, React, React Native & Expo</b> for my frontend and <b>Firebase, PHP, Symphony & MySQL for my Backend</b>.
-
-<!--
-  <img align="right" alt="GIF" src="?? 2D Art pixel art?" width="500" height="320" />
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📝 [Resume](??? via google drive?)
--->
-
-<h3>Languages & tools I use to code</h3>
+- 🔭 I’m currently working on an application for the film industry
+- 🌱 I’m currently learning more about app development
+- 📝 [Resume](https://drive.google.com/file/d/1lG_4ybR78A5n-jFe3vgoPR2NupH0XvOP/view?usp=sharing)
+<br>
+<br>
+<h3 style="margin-bottom: 8px">Languages & tools I use to code</h3> 
 <p align="center">
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-364BDD?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Expo" src="https://img.shields.io/badge/-Expo-000000?style=flat-square&logo=expo&logoColor=white" />
@@ -39,7 +37,7 @@ My passion not only lies in fixing logic problems, but also coming up with new i
   <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white" />
 </p>
 
-<h3>Places where you can find me</h3>
+<h3 style="margin-bottom: 8px">Places where you can find me</h3>
     <a href="https://www.linkedin.com/in/jeremy-gigase-901249135/">
       <img align="left" alt="Jeremy's Linkedin Page" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
     </a>
@@ -54,7 +52,7 @@ My passion not only lies in fixing logic problems, but also coming up with new i
     </a>
 <br>
 <br>
-<h3>My Github Stats</h3>
+<h3 style="margin-bottom: 8px" >My Github Stats</h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jeremygigase&show_icons=true&theme=gotham" alt="Jeremy's github stats" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremygigase&show_icons=true&theme=gotham" alt="Jeremy's Top Languages" /> 
 <!--
