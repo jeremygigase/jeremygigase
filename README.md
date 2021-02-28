@@ -6,11 +6,11 @@ Welcome to my profile page!
 I'm Jeremy, a Full Stack Developer from Antwerp, Belgium.
 
 <p>From the first day I started programming I fell in love with it. Though I’ve learned a lot since that first day I know there’s still a lot to learn. That’s why I dedicate myself every day to deepen my knowledge of the technologies I know and to constantly learn new ones.</p> 
-<p>>My passion not only lies in fixing logic problems, but also coming up with new ideas and being able to create them. Currently I’m focused on web & app development using <b>Next.js, React, React Native & Expo</b> for my frontend and <b>Firebase, PHP, Symphony & MySQL</b> for my Backend.</p
+<p>My passion not only lies in fixing logic problems, but also coming up with new ideas and being able to create them. Currently I’m focused on web & app development using <b>Next.js, React, React Native & Expo</b> for my frontend and <b>Firebase, PHP, Symphony & MySQL</b> for my Backend.</p
 
 - 🔭 I’m currently working on an application for the film industry
 - 🌱 I’m currently learning more about app development
-- 📝 [Resume](https://drive.google.com/file/d/1lG_4ybR78A5n-jFe3vgoPR2NupH0XvOP/view?usp=sharing)
+<!-- - 📝 [Resume](https://drive.google.com/file/d/1lG_4ybR78A5n-jFe3vgoPR2NupH0XvOP/view?usp=sharing) -->
 
 <h3 style="margin-bottom: 8px">Languages & tools I use to code</h3> 
 <p align="center">
