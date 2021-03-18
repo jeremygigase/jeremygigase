@@ -2,20 +2,22 @@
 
 Welcome to my profile page!
 
-<img align="right" alt="GIF" src="computer_desk_v3.gif" width="240" height="240" style="padding: 16px"/>
+<img align="right" alt="GIF" src="sitting_at_desk.gif" width="160" height="160" style="padding: 64px"/>
+
 I'm Jeremy, a Full Stack Developer from Antwerp, Belgium.
 
 <p>From the first day I started programming I fell in love with it. Though I’ve learned a lot since that first day I know there’s still a lot to learn. That’s why I dedicate myself every day to deepen my knowledge of the technologies I know and to constantly learn new ones.</p> 
-<p>My passion not only lies in fixing logic problems, but also coming up with new ideas and being able to create them. Currently I’m focused on web & app development using <b>Next.js, React, React Native & Expo</b> for my frontend and <b>Firebase, PHP, Symphony & MySQL</b> for my Backend.</p
+<p>My passion not only lies in fixing logic problems, but also coming up with new ideas and being able to create them. Currently I’m focused on web & app development using <b>Next.js, React, React Native & Expo</b> for my frontend and <b>Firebase, PHP, Symfony & MySQL</b> for my Backend.</p
 
 - 🔭 I’m currently working on an application for the film industry
 - 🌱 I’m currently learning more about app development
-<!-- - 📝 [Resume](https://drive.google.com/file/d/1lG_4ybR78A5n-jFe3vgoPR2NupH0XvOP/view?usp=sharing) -->
+- 📝 Check out my resume [Light Theme](https://drive.google.com/file/d/14QhYviijSWb_C-6hpDb09B1PJ2f8NMuj/view?usp=sharing) / [Dark Theme](https://drive.google.com/file/d/1jxM5ds06Z7QSiDHdmosHv8t9kIn1AaH2/view?usp=sharing) (in dutch)
 
 <h3 style="margin-bottom: 8px">Languages & tools I use to code</h3> 
 <p align="center">
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-364BDD?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Expo" src="https://img.shields.io/badge/-Expo-000000?style=flat-square&logo=expo&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F14E1C?style=flat-square&logo=figma&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-F6CB2C?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -34,6 +36,7 @@ I'm Jeremy, a Full Stack Developer from Antwerp, Belgium.
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/-VS_Code-3A7BCD?style=flat-square&logo=visual-studio-code&logoColor=white%22" />
 </p>
 
 <h3 style="margin-bottom: 8px">Places where you can find me</h3>
