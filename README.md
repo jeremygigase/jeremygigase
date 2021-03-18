@@ -7,7 +7,13 @@ Welcome to my profile page!
 I'm Jeremy, a Full Stack Developer from Antwerp, Belgium.
 
 <p>From the first day I started programming I fell in love with it. Though I’ve learned a lot since that first day I know there’s still a lot to learn. That’s why I dedicate myself every day to deepen my knowledge of the technologies I know and to constantly learn new ones.</p> 
+<<<<<<< HEAD
 <p>My passion not only lies in fixing logic problems, but also coming up with new ideas and being able to create them. Currently I’m focused on web & app development using <b>Next.js, React, React Native & Expo</b> for my frontend and <b>Firebase, PHP, Symfony & MySQL</b> for my Backend.</p
+=======
+<p>My passion not only lies in fixing logic problems, but also coming up with new ideas and being able to create them. Currently I’m focused on web & app development using <b>Next.js, React, React Native & Expo</b> for my frontend and <b>Firebase, PHP, Symphony & MySQL</b> for my Backend.</p
+  
+ <p> Interested in some of the projects I've worked on? <a href="https://jeremygigase.dev/">Here's my portofolio website I made in Next.js!</a></p>
+>>>>>>> 3d3a92204e3c3da7ba64501b9f9ff65a602e258c
 
 - 🔭 I’m currently working on an application for the film industry
 - 🌱 I’m currently learning more about app development
