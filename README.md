@@ -6,12 +6,11 @@ Welcome to my profile page!
 
 I'm Jeremy, a Full Stack Developer from Antwerp, Belgium.
 
-<p>From the first day I started programming I fell in love with it. Though I’ve learned a lot since that first day I know there’s still a lot to learn. That’s why I dedicate myself every day to deepen my knowledge of the technologies I know and to constantly learn new ones.</p> 
+<p>From the first day I started programming I fell in love with it. Though I’ve learned a lot since that first day I know there’s still a lot to learn. That’s why I dedicate myself every day to deepen my knowledge of the technologies I know and to constantly learn new ones.</p>
 
 <p>My passion not only lies in fixing logic problems, but also coming up with new ideas and being able to create them. Currently I’m focused on web & app development using <b>Next.js, React, React Native & Expo</b> for my frontend and <b>Firebase, PHP, Symphony & MySQL</b> for my Backend.</p
   
  <p> Interested in some of the projects I've worked on? <a href="https://jeremygigase.dev/">Here's my portofolio website I made in Next.js!</a></p>
-
 
 - 🔭 I’m currently working on an application for the film industry
 - 🌱 I’m currently learning more about app development
@@ -50,17 +49,12 @@ I'm Jeremy, a Full Stack Developer from Antwerp, Belgium.
     <a href="https://twitter.com/JeremyGigase">
       <img align="left" alt="Jeremy's Twitter Page" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
     </a>
-    <a href="https://open.spotify.com/user/117094324">
+    <!-- <a href="https://open.spotify.com/user/117094324">
       <img  align="left" alt="Jeremy's Spotify Page" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-    </a>
+    </a> -->
     <a href="https://www.codewars.com/users/jeremygigase">
       <img align="left" alt="Jeremy's Code Wars Page" src="https://www.codewars.com/users/jeremygigase/badges/micro" />
     </a>
-<br>
-<br>
-<h3 style="margin-bottom: 8px" >My Github Stats</h3>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jeremygigase&show_icons=true&theme=gotham" alt="Jeremy's github stats" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremygigase&show_icons=true&theme=gotham" alt="Jeremy's Top Languages" /> 
 <!--
 **jeremygigase/jeremygigase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
