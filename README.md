@@ -14,7 +14,7 @@ I'm Jeremy, a Full Stack Developer from Antwerp, Belgium.
 
 - 🔭 I’m currently working on an application for the film industry
 - 🌱 I’m currently learning more about app development
-- 📝 Check out my resume [Light Theme](https://drive.google.com/file/d/14QhYviijSWb_C-6hpDb09B1PJ2f8NMuj/view?usp=sharing) / [Dark Theme](https://drive.google.com/file/d/1jxM5ds06Z7QSiDHdmosHv8t9kIn1AaH2/view?usp=sharing) (in dutch)
+- 📝 Check out my resume [Light Theme](https://drive.google.com/file/d/109KmYyKKU2pt-Pzw8GyF-oL1WPiAEkHN/view?usp=sharing) / [Dark Theme](https://drive.google.com/file/d/1l4TPFZAxj-HQyNB7kirkSGYC2YfXzf01/view?usp=sharing) (in dutch)
 
 <h3 style="margin-bottom: 8px">Languages & tools I use to code</h3> 
 <p align="center">
