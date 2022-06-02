@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/YqFACC5oHsyy3l31k1/giphy.gif" width="32px">
+### Hi there 
 
 Welcome to my profile page!
 
