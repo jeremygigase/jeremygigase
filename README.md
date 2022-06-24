@@ -12,7 +12,6 @@ I'm Jeremy, a Full Stack Developer from Antwerp, Belgium.
   
  <p> Interested in some of the projects I've worked on? <a href="https://jeremygigase.dev/">Here's my portofolio website I made in Next.js!</a></p>
 
-<--! - 🔭 I’m currently working on an application for the film industry -->
 - 🌱 I’m currently learning more about app & web app development
 - 📝 Check out my resume [Light Theme](https://drive.google.com/file/d/1-NiGKgKIhsKvITfdX1BBJS9wV_BFGIea/view?usp=sharing) / [Dark Theme](https://drive.google.com/file/d/1_jV6LbGKuwJWPzygC99nGbI169v8SNO0/view?usp=sharing)
 
